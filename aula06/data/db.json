@@ -1,0 +1,29 @@
+{
+    "noticas":[
+        {
+            "id": 1,
+            "titulo": "Pós em IA para Negócios realiza mesa redonda em parceria com a Ilha Tech",
+            "dataCriacao": "25/09/2025",
+            "texto": "Na próxima terça-feira (30), a pós-graduação em Inteligência Artificial para Negócios e Profissionais do Futuro promoverá a mesa redonda “Do Caos à Clareza: Como a IA te auxilia a tomar decisões mais inteligentes”. A mesa redonda será conduzida pelo professor Dr. Marcelo Fernandes, coordenador da especialização, e terá como palestrante Messias Batista, PhD Student em IA e Senior Data Engineering na Minstait."
+        },
+        {
+            "id": 2,
+            "titulo": "Setembro Amarelo: Liga de Psicologia Social promove atividades sobre saúde mental",
+            "dataCriacao": "23/09/2025",
+            "texto": "O mês de setembro é marcado pela conscientização da importância do cuidado com a saúde mental. A campanha do Setembro Amarelo tem o objetivo de reduzir estigmas,  incentivar a busca e oferta por ajuda psicológica e prevenir o suicídio.Para promover o diálogo sobre saúde mental, a Liga Acadêmica de Psicologia Social - LAPS do UNIESP realizou atividades dentro e fora do centro universitário."
+        },
+        {
+            "id": 3,
+            "titulo": "Liga Acadêmica de Odontologia promove aula aberta sobre Ortodontia",
+            "dataCriacao": "22/09/2025",
+            "texto": "A Liga Acadêmica de Anatomia Bucomaxilofacial Catarina Maria - LAABCM do UNIESP promove na próxima quarta-feira (24) uma aula aberta sobre um tema essencial na prática clínica: “Falhas anatômicas e sua aplicação na Ortodontia”. A aula será ministrada pela Dra. Jaqueline Marinho e abordará a anatomia aplicada e os desafios da Ortodontia na correção dessas falhas."
+        }
+    ],
+    "dpolgpd": [
+        {
+            "id": 1,
+            "titulo": "Oficial de Proteção de Dados - DPO",
+            "texto": "O Centro Universitário Uniesp atendendo à Lei Geral de Proteção de dados (Lei n. 13.709, de 14 de agosto de 2018) disponibiliza ao público o canal de comunicação dpo@iesp.edu.br para tratamento de assuntos relacionados a este tema. Tal e-mail é um canal permanente entre o público externo e interno que necessite de atendimento aos assuntos que abordem à LGPD. Comprometidos com o cumprimento legal desta atribuição comunicamos ainda que as mensagens eletrônicas enviadas serão respondidas em até 5 dias úteis."
+        }
+    ]
+}
