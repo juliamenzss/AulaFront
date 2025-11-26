@@ -1,5 +1,4 @@
-import { Card, Col, Container, Row } from 'react-bootstrap'
-
+import { Card, Col, Container, Row } from "react-bootstrap";
 
 const Inicial = () => {
   return (
@@ -42,6 +41,9 @@ const Inicial = () => {
               </Card.Text>
             </Card.Body>
           </Card>
+        </Col>
+
+        <Col md={4}>
           <Card className="text-center shadow-sm h-100">
             <Card.Img
               variant="top"
@@ -57,7 +59,9 @@ const Inicial = () => {
               </Card.Text>
             </Card.Body>
           </Card>
+        </Col>
 
+        <Col md={4}>
           <Card className="text-center shadow-sm h-100">
             <Card.Img
               variant="top"
@@ -75,8 +79,41 @@ const Inicial = () => {
           </Card>
         </Col>
       </Row>
+
+      <Row className="g-4 mt-4">
+        <Col md={6}>
+          <Card className="h-100 shadow-sm text-center">
+            <Card.Img
+              variant="top"
+              src="https://images.unsplash.com/photo-1521790797524-b2497295b8a0"
+              style={{ height: "200px", objectFit: "cover" }}
+            />
+            <Card.Body>
+              <Card.Title>Parceria com Empresas</Card.Title>
+              <Card.Text>
+                Mantemos acordos om empresas locais e multinacionais.
+              </Card.Text>
+            </Card.Body>
+          </Card>
+        </Col>
+        <Col md={6}>
+          <Card className="h-100 text-center shadow-sm">
+            <Card.Img
+              variant="top"
+              src="https://images.unsplash.com/photo-1513258496099-48168024aec0"
+              style={{ height: "200px", objectFit: "cover" }}
+            />
+            <Card.Body>
+              <Card.Title>Compromisso com a educação</Card.Title>
+              <Card.Text>
+                Compromisso com a educação de alta qualidade. 
+              </Card.Text>
+            </Card.Body>
+          </Card>
+        </Col>
+      </Row>
     </Container>
   );
 };
 
-export default Inicial
+export default Inicial;

@@ -15,7 +15,7 @@ const DpoLgpd = () => {
         <h1>DPO- Lgpd</h1>
       <ul>
         {
-            noticias.map((dpolgpd) => (
+            dpolgpd.map((dpolgpd) => (
                 <div key={dpolgpd.id}>
                     <h2>{dpolgpd.titulo}</h2>
                     <p>{dpolgpd.texto}</p>

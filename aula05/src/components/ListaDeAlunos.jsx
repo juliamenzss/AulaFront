@@ -2,7 +2,7 @@ import { useEffect, useState } from "react"
 
 const ListaDeAlunos = () => {
     
-    const [alunos, setAlunos] = useState([second]);
+    const [alunos, setAlunos] = useState([]);
 
     useEffect(() => {
         async function fecthData(){
